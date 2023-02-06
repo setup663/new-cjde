@@ -1,0 +1,44 @@
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe.config
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\bin\Debug\MathQuizКовяров.pdb
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.Form1.resources
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\source\repos\MathQuizКовяров\obj\Debug\MathQuizКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe.config
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Form1.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Properties.Resources.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe.config
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Form1.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.pdb
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe.config
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.exe
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\bin\Debug\MathQuizКовяров.pdb
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Form1.resources
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.Properties.Resources.resources
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.GenerateResource.cache
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.exe
+C:\Users\student\Downloads\code-main (2)\code-main\MathQuizКовяров\obj\Debug\MathQuizКовяров.pdb
