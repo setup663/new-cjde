@@ -1,0 +1,33 @@
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe.config
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.pdb
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Form1.resources
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.exe
+C:\Users\Aleksandr\source\repos\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe.config
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Form1.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Properties.Resources.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe.config
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\bin\Debug\MatchingGameКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Form1.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\MatchingGameКовяров\obj\Debug\MatchingGameКовяров.pdb
