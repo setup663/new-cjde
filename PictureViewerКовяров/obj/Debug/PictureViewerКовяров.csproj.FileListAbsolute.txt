@@ -1,0 +1,33 @@
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe.config
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.pdb
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Form1.resources
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.exe
+C:\Users\Aleksandr\source\repos\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe.config
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.pdb
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Form1.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Properties.Resources.resources
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.exe
+C:\Users\student\Downloads\Code-main (1)\Code-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe.config
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\bin\Debug\PictureViewerКовяров.pdb
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Form1.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.Properties.Resources.resources
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.exe
+C:\Users\Aleksandr\Downloads\code-new-main\code-new-main\PictureViewerКовяров\obj\Debug\PictureViewerКовяров.pdb
